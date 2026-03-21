@@ -11,6 +11,8 @@ return [
 
     'allowed_origins' => [
         'http://localhost:8081',
+        'https://wwww.codereview.com.ng',
+        'codereview.com.ng',
         'http://localhost:5173',     // wildcard for dev ports
     ],
 
