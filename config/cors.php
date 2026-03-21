@@ -11,7 +11,7 @@ return [
 
     'allowed_origins' => [
         'http://localhost:8081',
-        'http://localhost:*',     // wildcard for dev ports
+        'http://localhost:5173',     // wildcard for dev ports
     ],
 
     'allowed_origins_patterns' => [
